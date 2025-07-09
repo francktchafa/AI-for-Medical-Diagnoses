@@ -10,5 +10,5 @@ Welcome to my repository showcasing a suite of deep learning projects aimed at i
 
 ├── [AI for Chest XRay Diagnosis](https://github.com/francktchafa/AI-for-Medical-Diagnoses/tree/main/AI%20for%20Chest%20XRay%20Diagnosis)
 
-│   └── [notebooks](https://github.com/francktchafa/AI-for-Medical-Diagnoses/blob/main/AI%20for%20Chest%20XRay%20Diagnosis/Chest_XRay_Medical_Diagnosis.ipynb), 
+      └── [notebooks](https://github.com/francktchafa/AI-for-Medical-Diagnoses/blob/main/AI%20for%20Chest%20XRay%20Diagnosis/Chest_XRay_Medical_Diagnosis.ipynb), 
 
