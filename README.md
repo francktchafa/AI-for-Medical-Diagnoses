@@ -4,9 +4,7 @@ Welcome to my repository showcasing a suite of deep learning projects aimed at i
 
 **AI-for-Medical-Diagnoses**/
 
-├── [LICENSE](https://github.com/francktchafa/AI-for-Medical-Diagnoses/blob/main/LICENSE)
-
-├── [README.md](https://github.com/francktchafa/AI-for-Medical-Diagnoses/blob/main/README.md)
-
-├── [AI for Chest XRay Diagnosis](https://github.com/francktchafa/AI-for-Medical-Diagnoses/tree/main/AI%20for%20Chest%20XRay%20Diagnosis)
+1. [LICENSE](https://github.com/francktchafa/AI-for-Medical-Diagnoses/blob/main/LICENSE)
+2. [README.md](https://github.com/francktchafa/AI-for-Medical-Diagnoses/blob/main/README.md)
+3. [AI for Chest XRay Diagnosis](https://github.com/francktchafa/AI-for-Medical-Diagnoses/tree/main/AI%20for%20Chest%20XRay%20Diagnosis)
 
