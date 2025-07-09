@@ -4,4 +4,5 @@ Welcome to my repository showcasing a suite of deep learning projects aimed at i
 
 **List of projects thus far:**
 1. [AI for Chest XRay Diagnosis](https://github.com/francktchafa/AI-for-Medical-Diagnoses/tree/main/AI%20for%20Chest%20XRay%20Diagnosis)
+   A multilabel classifier to predict the presence or absence 14 thoracic diseases.
 
